@@ -20,7 +20,7 @@ tiketToTheClub(age) {
 }
 
 
-
+// Just test
 //    tiketToTheClub(age) {
 //    return age > 18 ? true : false ;
 //    }
